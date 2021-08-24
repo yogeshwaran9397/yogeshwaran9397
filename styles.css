@@ -1,0 +1,69 @@
+body
+{
+    background: black;
+    color: white;
+    font-family: 'Poppins', sans-serif; 
+}
+
+mark{
+    background-color: black;
+     color: rgb(141, 140, 140);
+     font-family: 'Poppins', sans-serif;
+}
+
+a{
+    text-decoration: none; /* no underline */
+    color: white;
+}
+
+.profData--Role{
+    color: rgb(141, 140, 140);
+}
+
+.img-engineer{
+    width: 150px;
+    height: 150px;
+}
+
+.engineer-role{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-right: 10px;
+    padding-right: 100px;
+}
+
+.ui--dark{  
+    padding: 300;     
+    margin: 100px 0;   
+    display: flex;     
+    align-items: center;
+    justify-content: center; 
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.info-btn-container
+{
+    margin-top: 25px;
+}
+
+.ul--Info--container{
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;        
+    padding: 0%;    
+}
+
+.li--Info--btn, .tooltip
+{
+    border:  none;
+    padding: 6px;
+    border-radius: 1em;
+    margin-right: 9px;
+    background-color:rgb(66, 65, 65) ;
+} 
+
+
+
+
+

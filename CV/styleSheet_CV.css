@@ -1,0 +1,80 @@
+body{
+    background-color: rgb(58, 57, 57);    
+    font-family: 'Poppins', sans-serif; 
+}
+
+a{
+    text-decoration: none; /* no underline */
+    color: white;
+}
+
+h3{
+    color: white;
+}
+
+.img-engineer{
+    width: 100px;
+    height: 100px;
+}
+
+.img-yog{
+    width: 150px;
+	height: 150px;
+    border-radius: 50px;    
+}
+
+.avatar-prof{
+    color: white;    
+}
+
+.avatar-prof-main, .avatar-prof-img{
+    display: flex;
+    flex-wrap: nowrap;
+    margin-top: 50px;
+    padding-right: 120px;
+    justify-content: center;     
+}
+
+.high-spcl{
+    font-weight: bold;
+    color: wheat;
+}
+
+#div-about{
+    color: white;
+}
+
+section{
+    max-width: 500px;
+    margin: auto;
+    color: rgb(184, 178, 178);
+}
+
+#spcl-prof{
+    padding-left: 10px;
+}
+
+#spcl-prof-topic{
+    padding-left: 30px;
+}
+
+.info-btn-container
+{
+    margin-top: 25px;
+}
+
+.ul--Info--container{
+    list-style: none;
+    display: flex;
+    flex-wrap: nowrap;        
+    padding: 0%;    
+}
+
+.li--Info--btn, .tooltip
+{
+    border:  none;
+    padding: 6px;
+    border-radius: 1em;
+    margin-right: 9px;
+    background-color:rgb(66, 65, 65) ;
+} 
